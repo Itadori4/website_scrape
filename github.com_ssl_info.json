@@ -1,0 +1,56 @@
+{
+    "subject": [
+        [
+            [
+                "commonName",
+                "github.com"
+            ]
+        ]
+    ],
+    "issuer": [
+        [
+            [
+                "countryName",
+                "GB"
+            ]
+        ],
+        [
+            [
+                "stateOrProvinceName",
+                "Greater Manchester"
+            ]
+        ],
+        [
+            [
+                "localityName",
+                "Salford"
+            ]
+        ],
+        [
+            [
+                "organizationName",
+                "Sectigo Limited"
+            ]
+        ],
+        [
+            [
+                "commonName",
+                "Sectigo ECC Domain Validation Secure Server CA"
+            ]
+        ]
+    ],
+    "version": 3,
+    "serialNumber": "4E28F786B66C1A3B942CD2C40EB742A5",
+    "notBefore": "Mar  7 00:00:00 2024 GMT",
+    "notAfter": "Mar  7 23:59:59 2025 GMT",
+    "subjectAltName": [
+        [
+            "DNS",
+            "github.com"
+        ],
+        [
+            "DNS",
+            "www.github.com"
+        ]
+    ]
+}

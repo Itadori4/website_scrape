@@ -1,0 +1,93 @@
+{
+    "Scraped URLs": [],
+    "Security Audit": {
+        "DNS Information": {
+            "hostname": "github.com",
+            "aliases": [],
+            "addresses": [
+                "20.207.73.82"
+            ]
+        },
+        "SSL/TLS Information": {
+            "subject": [
+                [
+                    [
+                        "commonName",
+                        "github.com"
+                    ]
+                ]
+            ],
+            "issuer": [
+                [
+                    [
+                        "countryName",
+                        "GB"
+                    ]
+                ],
+                [
+                    [
+                        "stateOrProvinceName",
+                        "Greater Manchester"
+                    ]
+                ],
+                [
+                    [
+                        "localityName",
+                        "Salford"
+                    ]
+                ],
+                [
+                    [
+                        "organizationName",
+                        "Sectigo Limited"
+                    ]
+                ],
+                [
+                    [
+                        "commonName",
+                        "Sectigo ECC Domain Validation Secure Server CA"
+                    ]
+                ]
+            ],
+            "version": 3,
+            "serialNumber": "4E28F786B66C1A3B942CD2C40EB742A5",
+            "notBefore": "Mar  7 00:00:00 2024 GMT",
+            "notAfter": "Mar  7 23:59:59 2025 GMT",
+            "subjectAltName": [
+                [
+                    "DNS",
+                    "github.com"
+                ],
+                [
+                    "DNS",
+                    "www.github.com"
+                ]
+            ]
+        },
+        "Nmap Scan": "'nmap program was not found in path. PATH is : C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.3.9-hotspot\\\\bin;C:\\\\Program Files\\\\Common Files\\\\Oracle\\\\Java\\\\javapath;C:\\\\Program Files (x86)\\\\VMware\\\\VMware Workstation\\\\bin\\\\;C:\\\\Windows\\\\system32;C:\\\\Windows;C:\\\\Windows\\\\System32\\\\Wbem;C:\\\\Windows\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\;C:\\\\Windows\\\\System32\\\\OpenSSH\\\\;C:\\\\Program Files (x86)\\\\NVIDIA Corporation\\\\PhysX\\\\Common;C:\\\\WINDOWS\\\\system32;C:\\\\WINDOWS;C:\\\\WINDOWS\\\\System32\\\\Wbem;C:\\\\WINDOWS\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\;C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\;C:\\\\Program Files\\\\NVIDIA Corporation\\\\NVIDIA NvDLISR;C:\\\\Program Files\\\\Java\\\\jdk-21\\\\bin;C:\\\\Users\\\\rohit\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\\\\Scripts\\\\;C:\\\\Users\\\\rohit\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\\\\;C:\\\\Users\\\\rohit\\\\AppData\\\\Local\\\\Microsoft\\\\WindowsApps;C:\\\\Users\\\\rohit\\\\AppData\\\\Local\\\\Programs\\\\Microsoft VS Code\\\\bin'",
+        "Shodan Information": "Invalid API key",
+        "BuiltWith Information": {
+            "javascript-graphics": [
+                "D3"
+            ],
+            "javascript-frameworks": [
+                "React"
+            ],
+            "web-frameworks": [
+                "Twitter Bootstrap"
+            ]
+        },
+        "Banner Grabbing": "HTTP/1.1 301 Moved Permanently\r\nContent-Length: 0\r\nLocation: https://20.207.73.82/\r\n\r\n",
+        "Geolocation Information": {
+            "ip": "20.207.73.82",
+            "city": "Pune",
+            "region": "Maharashtra",
+            "country": "IN",
+            "loc": "18.5196,73.8554",
+            "org": "AS8075 Microsoft Corporation",
+            "postal": "411001",
+            "timezone": "Asia/Kolkata",
+            "readme": "https://ipinfo.io/missingauth"
+        }
+    }
+}
